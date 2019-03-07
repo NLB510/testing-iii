@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Dashboard /> dashboard should render 1`] = `
+exports[`<Dashboard /> dashboard should render with Controls and Display 1`] = `
 Array [
   <div
     className="display panel"
